@@ -1,0 +1,25 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #ff6701;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	line-height: 1.5em; 
+	background-color: #fcecdd;
+	
+	background-repeat: no-repeat;
+	background-position: top
+}
+a, a:link, a:visited { color: #ff6701; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+p { margin: 0 0 15px 0; padding: 0; }
+img { border: none; }
+
+h1, h2, h3, h4, h5, h6 { color: #ffc288; }
+h1 { font-size: 30px; font-weight: normal; margin: 0 0 20px 0; padding: 5px 0; }
+h2 { font-size: 28px; font-weight: normal; padding-bottom: 20px; margin: 0 0 30px 0; font-weight: normal; background: url(images/templatemo_divider.png) bottom repeat-x }
+h3 { font-size: 24px; margin: 0 0 30px 0; padding: 0; padding: 0; font-weight: normal;  }
+h4 { font-size: 16px; margin: 0 0 30px 0; padding: 0; }
+h5 { font-size: 12px; margin: 0 0 10px 0; padding: 0; }
